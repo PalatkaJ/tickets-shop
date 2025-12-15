@@ -7,12 +7,11 @@ The goal of this project was to implement a functional, extensible application, 
  (and potentially trade them, this functionality was not implemented at all due to unexpected complexity of the design of a simple application)
 And then the application persists the information about a user using a database.
 ## Users section
-For trying out this application, clone this repository and then run:
+For trying out this application, after cloning the repository:
 ```
 $ cd tickets-shop
-$ dotnet restore
-$ dotnet build
-$ dotnet run --project src/tickets-shop.UI
+$ docker build -t simple-tickets-app .
+$ docker run --rm -it simple-tickets-app
 ```
 This should sucessfully downloadall dependency packages and start the application. You should see the authentication menu with sign up, log in and exit options, there you can play with the
 application, which should be pretty straight forward, if not, use the help options for advices. For selecting an option from the menu just type the symbol and click enter
