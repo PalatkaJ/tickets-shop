@@ -102,11 +102,10 @@ Goal</h1>
 </ul>
 <h1 class="doxsection"><a class="anchor" id="autotoc_md3"></a>
 Users section</h1>
-<p>For trying out this application, clone this repository and then: </p><div class="fragment"><div class="line">$ cd tickets-shop</div>
-<div class="line">$ dotnet restore</div>
-<div class="line">$ dotnet build</div>
-<div class="line">$ dotnet run --project src/tickets-shop.UI</div>
-</div><!-- fragment --><p> This should sucessfully download all dependency packages and start the application. You should see the authentication menu with sign up, log in and exit options, there you can play with the application, which should be pretty straight forward, if not, use the help options for advices. For selecting an option from the menu just type the symbol and click enter (e.g. 1 - Sing Up, just press 1 and enter, or e - exit, just press e and enter). </p>
+<p>For trying out this application, after cloning the repository: </p><div class="fragment"><div class="line">$ cd tickets-shop</div>
+<div class="line">$ docker build -t simple-tickets-app .</div>
+<div class="line">$ docker run --rm -it simple-tickets-app</div>
+</div><!-- fragment --><p> This should successfully start a docker container and run the application. You should see the authentication menu with sign up, log in and exit options, there you can play with the application, which should be pretty straight forward, if not, use the help options for advices. For selecting an option from the menu just type the symbol and click enter (e.g. 1 - Sing Up, just press 1 and enter, or e - exit, just press e and enter). </p>
 <h1 class="doxsection"><a class="anchor" id="autotoc_md4"></a>
 Programming section</h1>
 <p>The whole solution is divided into four projects: UI, Domain, Application and Infrastructure. We will discuss what each project has to do and what are its responsibilites. Also the dependency graph of this project looks like:</p>

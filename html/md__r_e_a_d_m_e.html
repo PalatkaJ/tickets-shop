@@ -102,11 +102,10 @@ Goal</h1>
 </ul>
 <h1 class="doxsection"><a class="anchor" id="autotoc_md14"></a>
 Users section</h1>
-<p>For trying out this application, clone this repository and then run: </p><div class="fragment"><div class="line">$ cd tickets-shop</div>
-<div class="line">$ dotnet restore</div>
-<div class="line">$ dotnet build</div>
-<div class="line">$ dotnet run --project src/tickets-shop.UI</div>
-</div><!-- fragment --><p> This should sucessfully downloadall dependency packages and start the application. You should see the authentication menu with sign up, log in and exit options, there you can play with the application, which should be pretty straight forward, if not, use the help options for advices. For selecting an option from the menu just type the symbol and click enter (e.g. 1 - Sing Up, just press 1 and enter, or e - exit, just press e and enter). </p>
+<p>For trying out this application, after cloning the repository: </p><div class="fragment"><div class="line">$ cd tickets-shop</div>
+<div class="line">$ docker build -t simple-tickets-app .</div>
+<div class="line">$ docker run --rm -it simple-tickets-app</div>
+</div><!-- fragment --><p> This should successfully start a docker container and run the application. You should see the authentication menu with sign up, log in and exit options, there you can play with the application, which should be pretty straight forward, if not, use the help options for advices. For selecting an option from the menu just type the symbol and click enter (e.g. 1 - Sing Up, just press 1 and enter, or e - exit, just press e and enter). </p>
 <h1 class="doxsection"><a class="anchor" id="autotoc_md15"></a>
 Other</h1>
 <p>For more information please see the doxy generated <a href="https://palatkaj.github.io/tickets-shop/docs/html/index.html">documentation</a> of the project (and more programming-related text from me in the title page). I had some troubles to make doxy see all of source the files so there are some missing, see the well documented source code for more detailed information please. </p>

@@ -13,7 +13,7 @@ $ cd tickets-shop
 $ docker build -t simple-tickets-app .
 $ docker run --rm -it simple-tickets-app
 ```
-This should sucessfully downloadall dependency packages and start the application. You should see the authentication menu with sign up, log in and exit options, there you can play with the
+This should successfully start a docker container and run the application. You should see the authentication menu with sign up, log in and exit options, there you can play with the
 application, which should be pretty straight forward, if not, use the help options for advices. For selecting an option from the menu just type the symbol and click enter
 (e.g. 1 - Sing Up, just press 1 and enter, or e - exit, just press e and enter).
 # Other
