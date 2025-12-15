@@ -57,4 +57,4 @@ I tried to implement an application which would be not that hard to extend with 
 Altough I wanted to implement the functionality of begin able to safely trade tickets with other users there was not time for that and I am finding the project being complex enough. The flow of extending my project would
 be: adding option to a specific menu builder where we want to add the extension, creating an UI service for the endpoint (which only takes care of the input) and creating a handler which is the business logic. Also the documentation
 of the code is rather proper thanks to AI. Let me add a note at the end, me and my friend tried to use Claude for generating web UI for my console application and it really did surprise me a lot. It managed to create
-an elegant UI in under 10 minutes, which is incredible, see the [web UI]() which is NOT my work and is NOT debugged at all, it is just for interest.
+an elegant UI in under 10 minutes, which is incredible, see the web UI [project](https://github.com/PalatkaJ/tickets-shop-web-UI) which is NOT my work and is NOT debugged at all, it is just for interest.
