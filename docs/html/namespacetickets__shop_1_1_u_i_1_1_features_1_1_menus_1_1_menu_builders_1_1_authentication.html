@@ -95,12 +95,45 @@ $(function(){initNavTree('namespacetickets__shop_1_1_u_i_1_1_features_1_1_menus_
 <tr class="heading"><td colspan="2"><h2 id="header-nested-classes" class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
 <tr class="memitem:AuthenticationMenuBuilder" id="r_AuthenticationMenuBuilder"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classtickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_authentication_1_1_authentication_menu_builder.html">AuthenticationMenuBuilder</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">The concrete menu builder for the application's initial, unauthenticated screen. It provides options to log in or sign up and defines the logic for transitioning the user to the appropriate main menu upon successful authentication.  <a href="classtickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_authentication_1_1_authentication_menu_builder.html#details">More...</a><br /></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 id="header-func-members" class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a0249216a548963a1ad0c0c76c53e2c13" id="r_a0249216a548963a1ad0c0c76c53e2c13"><td class="memItemLeft" align="right" valign="top"><a id="a0249216a548963a1ad0c0c76c53e2c13" name="a0249216a548963a1ad0c0c76c53e2c13"></a>
-class&#160;</td><td class="memItemRight" valign="bottom"><b>SignUpMenuBuilder</b> (<a class="el" href="interfacetickets__shop_1_1_application_1_1_authentication_1_1_i_authentication_module.html">IAuthenticationModule</a> authModule, <a class="el" href="classtickets__shop_1_1_u_i_1_1_core_1_1_startup_1_1_application_state.html">ApplicationState</a> applicationState)</td></tr>
+<tr class="memitem:a0249216a548963a1ad0c0c76c53e2c13" id="r_a0249216a548963a1ad0c0c76c53e2c13"><td class="memItemLeft" align="right" valign="top">class&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a0249216a548963a1ad0c0c76c53e2c13">SignUpMenuBuilder</a> (<a class="el" href="interfacetickets__shop_1_1_application_1_1_authentication_1_1_i_authentication_module.html">IAuthenticationModule</a> authModule, <a class="el" href="classtickets__shop_1_1_u_i_1_1_core_1_1_startup_1_1_application_state.html">ApplicationState</a> applicationState)</td></tr>
+<tr class="memdesc:a0249216a548963a1ad0c0c76c53e2c13"><td class="mdescLeft">&#160;</td><td class="mdescRight">The concrete menu builder for the user registration (Sign Up) screen. It allows the unauthenticated user to choose their desired role (<a class="el" href="classtickets__shop_1_1_domain_1_1_users_1_1_admin.html" title="Represents an administrative user with privileges to create events.">Admin</a> or Regular <a class="el" href="classtickets__shop_1_1_domain_1_1_users_1_1_user.html" title="Provides the abstract base definition for all user types (e.g., Admin, RegularUser) in the applicatio...">User</a>) before executing the registration workflow.  <br /></td></tr>
 </table>
+<a name="doc-func-members" id="doc-func-members"></a><h2 id="header-doc-func-members" class="groupheader">Function Documentation</h2>
+<a id="a0249216a548963a1ad0c0c76c53e2c13" name="a0249216a548963a1ad0c0c76c53e2c13"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0249216a548963a1ad0c0c76c53e2c13">&#9670;&#160;</a></span>SignUpMenuBuilder()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">class tickets_shop.UI.Features.Menus.MenuBuilders.Authentication.SignUpMenuBuilder </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="interfacetickets__shop_1_1_application_1_1_authentication_1_1_i_authentication_module.html">IAuthenticationModule</a></td>          <td class="paramname"><span class="paramname"><em>authModule</em></span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="classtickets__shop_1_1_u_i_1_1_core_1_1_startup_1_1_application_state.html">ApplicationState</a></td>          <td class="paramname"><span class="paramname"><em>applicationState</em></span>&#160;)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>The concrete menu builder for the user registration (Sign Up) screen. It allows the unauthenticated user to choose their desired role (<a class="el" href="classtickets__shop_1_1_domain_1_1_users_1_1_admin.html" title="Represents an administrative user with privileges to create events.">Admin</a> or Regular <a class="el" href="classtickets__shop_1_1_domain_1_1_users_1_1_user.html" title="Provides the abstract base definition for all user types (e.g., Admin, RegularUser) in the applicatio...">User</a>) before executing the registration workflow. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">authModule</td><td>The application's core authentication service containing the SignUp logic.</td></tr>
+    <tr><td class="paramname">applicationState</td><td>The application's shared state container.</td></tr>
+  </table>
+  </dd>
+</dl>
+<p>An action delegate that is invoked by the <a class="el" href="classtickets__shop_1_1_u_i_1_1_features_1_1_u_i_services_1_1_authentication_1_1_sign_up_service.html" title="A concrete UI service that facilitates the user sign-up (registration) process. It provides the speci...">SignUpService</a> upon successful registration, typically used to update the <a class="el" href="classtickets__shop_1_1_u_i_1_1_core_1_1_startup_1_1_application_state.html" title="A central, mutable container that holds the current state of the application (e.g....">ApplicationState</a> with the new user.</p>
+
+</div>
+</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <div id="page-nav" class="page-nav-panel">

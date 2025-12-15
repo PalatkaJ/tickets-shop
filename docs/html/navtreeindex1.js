@@ -1,5 +1,7 @@
 var NAVTREEINDEX1 =
 {
+"interfacetickets__shop_1_1_application_1_1_database_a_p_i_1_1_i_user_repository.html#a4098e6007007d4d254e36583311fc11e":[3,0,0,0,1,2,0],
+"interfacetickets__shop_1_1_application_1_1_database_a_p_i_1_1_i_user_repository.html#aeb13190240c19c7730095dc2a1f8377b":[2,0,0,0,1,2,3],
 "interfacetickets__shop_1_1_application_1_1_database_a_p_i_1_1_i_user_repository.html#aeb13190240c19c7730095dc2a1f8377b":[3,0,0,0,1,2,3],
 "md__r_e_a_d_m_e.html":[1],
 "md__r_e_a_d_m_e.html#autotoc_md12":[1,0],
@@ -41,6 +43,7 @@ var NAVTREEINDEX1 =
 "namespacetickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders.html":[2,0,0,3,1,0,0],
 "namespacetickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders.html#a430dd24de935bf07e55dd2df6072380f":[2,0,0,3,1,0,0,2],
 "namespacetickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_authentication.html":[2,0,0,3,1,0,0,0],
+"namespacetickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_authentication.html#a0249216a548963a1ad0c0c76c53e2c13":[2,0,0,3,1,0,0,0,1],
 "namespacetickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_users.html":[2,0,0,3,1,0,0,1],
 "namespacetickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_users.html#acbc7cda64b35bce2dd36d9c248c32f89":[2,0,0,3,1,0,0,1,2],
 "namespacetickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_users_1_1_admin_menus.html":[2,0,0,3,1,0,0,1,0],

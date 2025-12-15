@@ -8,5 +8,6 @@ var searchData=
   ['admineventsmenubuilder_5',['AdminEventsMenuBuilder',['../namespacetickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_users_1_1_admin_menus.html#abcf5579ab1c9f55f23c012bfb3d0b79d',1,'tickets_shop::UI::Features::Menus::MenuBuilders::Users::AdminMenus']]],
   ['adminmainmenubuilder_6',['AdminMainMenuBuilder',['../namespacetickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_users_1_1_admin_menus.html#a8a35cf496f8c933b4ad6d34e3c1be6bc',1,'tickets_shop::UI::Features::Menus::MenuBuilders::Users::AdminMenus']]],
   ['appdbcontext_7',['AppDbContext',['../namespacetickets__shop_1_1_infrastructure_1_1_database.html#a173cfb751204997a1f5cebf2b6807ecb',1,'tickets_shop::Infrastructure::Database']]],
-  ['associateticketwithevent_8',['AssociateTicketWithEvent',['../classtickets__shop_1_1_domain_1_1_tickets_1_1_ticket.html#a77841786098441641ea25618f47847a3',1,'tickets_shop::Domain::Tickets::Ticket']]]
+  ['associateticketwithevent_8',['AssociateTicketWithEvent',['../classtickets__shop_1_1_domain_1_1_tickets_1_1_ticket.html#a77841786098441641ea25618f47847a3',1,'tickets_shop::Domain::Tickets::Ticket']]],
+  ['authenticationmenubuilder_9',['AuthenticationMenuBuilder',['../classtickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_authentication_1_1_authentication_menu_builder.html#a29fa9f5e7a4a804e316b864e48963058',1,'tickets_shop::UI::Features::Menus::MenuBuilders::Authentication::AuthenticationMenuBuilder']]]
 ];

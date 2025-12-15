@@ -132,6 +132,8 @@ var NAVTREEINDEX0 =
 "classtickets__shop_1_1_u_i_1_1_core_1_1_startup_1_1_console_app_controller.html#afd6da3957a04d0d636d1bd8bcd4edca2":[3,0,0,2,0,1,1,0],
 "classtickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_authentication_1_1_authentication_menu_builder.html":[2,0,0,3,1,0,0,0,0],
 "classtickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_authentication_1_1_authentication_menu_builder.html":[3,0,0,2,1,0,0,0,0],
+"classtickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_authentication_1_1_authentication_menu_builder.html#a29fa9f5e7a4a804e316b864e48963058":[2,0,0,3,1,0,0,0,0,0],
+"classtickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_authentication_1_1_authentication_menu_builder.html#a29fa9f5e7a4a804e316b864e48963058":[3,0,0,2,1,0,0,0,0,0],
 "classtickets__shop_1_1_u_i_1_1_features_1_1_u_i_services_1_1_authentication_1_1_authentication_confirmation_service.html":[2,0,0,3,1,1,0,0],
 "classtickets__shop_1_1_u_i_1_1_features_1_1_u_i_services_1_1_authentication_1_1_authentication_confirmation_service.html":[3,0,0,2,1,1,0,0],
 "classtickets__shop_1_1_u_i_1_1_features_1_1_u_i_services_1_1_authentication_1_1_authentication_help_service.html":[2,0,0,3,1,1,0,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX0 =
 "interfacetickets__shop_1_1_application_1_1_database_a_p_i_1_1_i_user_repository.html#a17add685c67083b2ad2a9620e821526c":[3,0,0,0,1,2,1],
 "interfacetickets__shop_1_1_application_1_1_database_a_p_i_1_1_i_user_repository.html#a32fab5eefc601eda8699f6b94677ed74":[2,0,0,0,1,2,2],
 "interfacetickets__shop_1_1_application_1_1_database_a_p_i_1_1_i_user_repository.html#a32fab5eefc601eda8699f6b94677ed74":[3,0,0,0,1,2,2],
-"interfacetickets__shop_1_1_application_1_1_database_a_p_i_1_1_i_user_repository.html#a4098e6007007d4d254e36583311fc11e":[2,0,0,0,1,2,0],
-"interfacetickets__shop_1_1_application_1_1_database_a_p_i_1_1_i_user_repository.html#a4098e6007007d4d254e36583311fc11e":[3,0,0,0,1,2,0],
-"interfacetickets__shop_1_1_application_1_1_database_a_p_i_1_1_i_user_repository.html#aeb13190240c19c7730095dc2a1f8377b":[2,0,0,0,1,2,3]
+"interfacetickets__shop_1_1_application_1_1_database_a_p_i_1_1_i_user_repository.html#a4098e6007007d4d254e36583311fc11e":[2,0,0,0,1,2,0]
 };

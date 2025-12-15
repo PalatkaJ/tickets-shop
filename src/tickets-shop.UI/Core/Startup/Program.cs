@@ -18,19 +18,15 @@ static class Program
     {
         // 1. Database Initialization
         using var db = AppDbContext.Create();
-        db.Database.EnsureCreated(); // Creates the SQLite file and schema if it doesn't exist.
-
-        // 2. Dependency Setup (Composition Root)
-        // Initializes all concrete repository implementations
-        var (userRepo, eventsRepo, ticketsRepo) = ProgramSetup.InitializeRepositories(db);
+        db.Database.EnsureCreated();
         
-        // Initializes the authentication service with the user repository
+        // 2. Dependency setup, Initializes all concrete repository implementations
+        var (userRepo, eventsRepo, ticketsRepo) = ProgramSetup.InitializeRepositories(db);
         var authenticationService = ProgramSetup.SetUpAuthenticationService(userRepo);
         
-        // Initializes the main application controller with all dependencies
+        // 3. Initialize the main controller
         var consoleAppController = new ConsoleAppController(authenticationService, new MenuService(), userRepo, eventsRepo, ticketsRepo, db);
         
-        // 3. Application Start
-        consoleAppController.Run(); // Starts the main console application loop.
+        consoleAppController.Run();
     }
 }
