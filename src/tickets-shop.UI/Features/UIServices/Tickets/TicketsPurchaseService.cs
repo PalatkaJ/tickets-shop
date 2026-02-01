@@ -42,14 +42,13 @@ public class TicketsPurchaseService(ApplicationState applicationState): UIServic
     /// <param name="res">A reference parameter that holds the parsed integer amount if successful.</param>
     /// <param name="msgService">The message service (confirmation or failure) to display next.</param>
     /// <returns>True if parsing and validation succeed; otherwise, false.</returns>
-    private bool TryParseNumberOfTickets(string nrInString, ref int res, out MessageService msgService)
+    private bool TryParseNumberOfTickets(string nrInString, ref uint res, out MessageService msgService)
     {
         string additionalMsg = "as the number of tickets you would like to purchase";
         
         try
         {
-            int parsed = int.Parse(nrInString);
-            if (parsed < 0) throw new InvalidOperationException();
+            uint parsed = uint.Parse(nrInString);
             res = parsed;
             msgService = new TicketsPurchaseConfirmationService();
             return true;
@@ -76,7 +75,7 @@ public class TicketsPurchaseService(ApplicationState applicationState): UIServic
     /// Handles the subsequent steps after successful number parsing: user confirmation,
     /// executing the purchase handler, and updating the message service based on the transaction result.
     /// </summary>
-    private void ProceedOnSuccess(ref MessageService msgService, int nrOfTickets)
+    private void ProceedOnSuccess(ref MessageService msgService, uint nrOfTickets)
     {
         var confirmation = GetInput("Do you really want to purchase these tickets? [y/n]: ");
         if (confirmation == "n") return;
@@ -105,7 +104,7 @@ public class TicketsPurchaseService(ApplicationState applicationState): UIServic
         // Set the current user on the handler before transaction begins
         _ticketsPurchaseHandler.User = (RegularUser)applicationState.CurrentUser!;
         
-        int nrOfTickets = 1;
+        uint nrOfTickets = 1;
         string nrInString = GetInput("How many tickets would you like to purchase?: ");
         
         bool success = TryParseNumberOfTickets(nrInString, ref nrOfTickets, out var msgService);

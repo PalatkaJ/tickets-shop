@@ -27,7 +27,7 @@ public class Event
     /// <summary>
     /// The fixed price of a single ticket for this event (in the application's base currency).
     /// </summary>
-    public int Price { get; private set; }
+    public uint Price { get; private set; }
 
     /// <summary>
     /// The date and time when the event will take place.
@@ -52,7 +52,7 @@ public class Event
     /// <summary>
     /// Tracks the index of the next available ticket (which seats have been allocated).
     /// </summary>
-    public int CurrentFreeTicket { get; private set; }
+    public uint CurrentFreeTicket { get; private set; }
     
     /// <summary>
     /// The total capacity of the event (the maximum number of tickets available).
@@ -60,7 +60,7 @@ public class Event
     /// all tickets from db to say how many were created (that is helpful when
     /// we show event detail.)
     /// </summary>
-    public int TicketCount { get; private set; }
+    public uint TicketCount { get; private set; }
 
     /// <summary>
     /// A collection of all tickets associated with this event, both sold and unsold.
@@ -76,7 +76,7 @@ public class Event
     /// <param name="place">The location of the event.</param>
     /// <param name="numberOfTickets">The total ticket capacity.</param>
     /// <param name="price">The price per ticket.</param>
-    public void SetFields(string title, string description, DateTime date, string place, int numberOfTickets, int price)
+    public void SetFields(string title, string description, DateTime date, string place, uint numberOfTickets, uint price)
     {
         Title = title;
         Description = description;
@@ -102,18 +102,21 @@ public class Event
     /// </summary>
     /// <param name="nrOfTickets">The number of tickets requested by the user.</param>
     /// <returns>True if the request is within the available ticket count; otherwise, false.</returns>
-    public bool TicketsAreAvailable(int nrOfTickets) => CurrentFreeTicket + nrOfTickets - 1 < TicketCount;
+    public bool TicketsAreAvailable(uint nrOfTickets) => (long)CurrentFreeTicket + nrOfTickets - 1 < TicketCount;
 
     /// <summary>
     /// Retrieves a sequential range of available tickets and increments the <see cref="CurrentFreeTicket"/> counter.
     /// </summary>
     /// <param name="nr">The number of tickets to retrieve.</param>
     /// <returns>A list of available Ticket objects ready to be assigned an owner.</returns>
-    public List<Ticket> GetRangeOfFreeTickets(int nr)
+    public List<Ticket> GetRangeOfFreeTickets(uint nr)
     {
-        var range = new Range(CurrentFreeTicket, CurrentFreeTicket+nr);
+        var range = new Range((int)CurrentFreeTicket, (int)(CurrentFreeTicket+nr));
         var toReturn =  Tickets.Take(range).ToList();
-        CurrentFreeTicket += nr;
+        checked
+        {
+            CurrentFreeTicket += nr;
+        }
         
         return toReturn;
     }

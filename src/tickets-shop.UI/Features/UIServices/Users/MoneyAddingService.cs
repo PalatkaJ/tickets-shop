@@ -22,12 +22,11 @@ public class MoneyAddingService(ApplicationState applicationState): UIService
     /// <param name="res">A reference parameter that holds the parsed integer amount if successful.</param>
     /// <param name="msgService">The appropriate message service (confirmation or failure) to display next.</param>
     /// <returns>True if parsing and validation succeed; otherwise, false.</returns>
-    private bool TryParseAmountOfCash(string nrInString, ref int res, out MessageService msgService)
+    private bool TryParseAmountOfCash(string nrInString, ref uint res, out MessageService msgService)
     {
         try
         {
-            int moneyToBeAdded = int.Parse(nrInString);
-            if (moneyToBeAdded < 0) throw new InvalidOperationException();
+            uint moneyToBeAdded = uint.Parse(nrInString);
             res = moneyToBeAdded;
             msgService =  new MoneyAddingConfirmationService
             {
@@ -55,7 +54,7 @@ public class MoneyAddingService(ApplicationState applicationState): UIService
     {
         string nrInString = GetInput($"Enter the amount of {AppConstants.Currency} you want to insert: ");
 
-        int res = 0;
+        uint res = 0;
         bool success = TryParseAmountOfCash(nrInString, ref res, out var confirmationService);
 
         if (success)
@@ -64,8 +63,15 @@ public class MoneyAddingService(ApplicationState applicationState): UIService
             MoneyAddingHandler moneyAddingHandler = 
                 new((RegularUser)applicationState.CurrentUser!, 
                     applicationState.DbContext!);
-            
-            moneyAddingHandler.Handle(res);
+
+            try
+            {
+                moneyAddingHandler.Handle(res);
+            }
+            catch (OverflowException)
+            {
+                confirmationService = new MoneyAddingFailedService(ErrorMessages.NumberOverflow);
+            }
         }
         
         // Displays the confirmation or failure message to the user

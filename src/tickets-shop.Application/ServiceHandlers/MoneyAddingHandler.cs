@@ -17,7 +17,7 @@ public class MoneyAddingHandler(RegularUser user, DbContext context)
     /// get much more complex here. 
     /// </summary>
     /// <param name="moneyToAdd">The amount of money to be added to the user's account.</param>
-    public void Handle(int moneyToAdd)
+    public void Handle(uint moneyToAdd)
     {
         user.AddMoney(moneyToAdd);
         context.SaveChanges();

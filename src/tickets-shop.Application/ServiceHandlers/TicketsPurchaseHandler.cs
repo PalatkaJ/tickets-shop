@@ -37,7 +37,7 @@ public class TicketsPurchaseHandler(DbContext context)
     /// <param name="totalPrice">The pre-calculated total cost of the tickets.</param>
     /// <param name="result">The specific reason for failure or success.</param>
     /// <returns>True if all checks pass; otherwise, false.</returns>
-    private bool CheckPurchaseValid(Event e, int nrOfTickets, int totalPrice, out PurchaseResult result)
+    private bool CheckPurchaseValid(Event e, uint nrOfTickets, uint totalPrice, out PurchaseResult result)
     {
         if (!e.TicketsAreAvailable(nrOfTickets))
         {
@@ -62,7 +62,7 @@ public class TicketsPurchaseHandler(DbContext context)
     /// <param name="e">The Event from which tickets are taken.</param>
     /// <param name="nrOfTickets">The number of tickets to retrieve.</param>
     /// <param name="totalPrice">The amount to deduct from the user.</param>
-    private void ProceedOnSuccess(Event e, int nrOfTickets, int totalPrice)
+    private void ProceedOnSuccess(Event e, uint nrOfTickets, uint totalPrice)
     {
         var tickets = e.GetRangeOfFreeTickets(nrOfTickets);
         
@@ -80,9 +80,20 @@ public class TicketsPurchaseHandler(DbContext context)
     /// <param name="e">The Event the user is purchasing tickets for.</param>
     /// <param name="nrOfTickets">The quantity of tickets to purchase.</param>
     /// <returns>A PurchaseResult enum indicating the outcome of the attempt.</returns>
-    public PurchaseResult Handle(Event e, int nrOfTickets)
+    public PurchaseResult Handle(Event e, uint nrOfTickets)
     {
-        int totalPrice = e.Price * nrOfTickets;
+        uint totalPrice;
+        try 
+        {
+            totalPrice = checked(e.Price * nrOfTickets);
+        }
+        catch (OverflowException)
+        {
+            // If the total price overflows uint, it's definitely more than the user has.
+            // Returning NotEnoughMoney is semantically correct.
+            return PurchaseResult.NotEnoughMoney;
+        }
+
         bool success = CheckPurchaseValid(e, nrOfTickets, totalPrice, out var result);
 
         if (success)

@@ -17,7 +17,7 @@ public class Ticket
     /// <summary>
     /// The specific seat number associated with this ticket for the event.
     /// </summary>
-    public int Seat { get; set; }
+    public uint Seat { get; set; }
     
     /// <summary>
     /// The navigation property linking to the user who currently owns this ticket (optional).
@@ -46,7 +46,7 @@ public class Ticket
     /// </summary>
     /// <param name="seat">The seat number for the ticket.</param>
     /// <param name="e">The event object the ticket belongs to.</param>
-    public void AssociateTicketWithEvent(int seat, Event e)
+    public void AssociateTicketWithEvent(uint seat, Event e)
     {
         Seat = seat;
         Event = e;

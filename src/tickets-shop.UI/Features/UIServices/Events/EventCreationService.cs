@@ -39,11 +39,11 @@ public class EventCreationService(ApplicationState applicationState): UIService
             var e = new Event();
             string title = GetInput("Title: ");
             string description = GetInput("Description: ");
-            DateTime date = PromptForDateTime(); // Custom method to ensure date format
+            DateTime date = PromptForDateTime();
             string place = GetInput("Place in any format (e.g. Malostranské náměstí, Profesní dům): ");
             
-            int nrOfTickets = int.Parse(GetInput("Number of tickets to release: "));
-            int price = int.Parse(GetInput("Price of one ticket (whole number): "));
+            uint nrOfTickets = uint.Parse(GetInput("Number of tickets to release: "));
+            uint price = uint.Parse(GetInput("Price of one ticket (whole number): "));
             
             e.SetFields(title, description, date, place, nrOfTickets, price);
 

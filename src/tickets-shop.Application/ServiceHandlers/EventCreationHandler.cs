@@ -22,7 +22,7 @@ public class EventCreationHandler(IEventsRepository eventsRepo, Admin admin, DbC
     /// <param name="e">The Event object to which tickets will be added.</param>
     private void GenerateTickets(Event e)
     {
-        for (int i = 0; i < e.TicketCount; i++)
+        for (uint i = 0; i < e.TicketCount; i++)
         {
             Ticket ticket = new();
             ticket.AssociateTicketWithEvent(i + 1, e);

@@ -11,7 +11,7 @@ public class MoneyAddingConfirmationService: MessageService
 {
     protected override string Subtitle =>  "money added successfully";
     
-    public int Amount { get; init; }
+    public uint Amount { get; init; }
     
     protected override string Msg => 
         $"""
