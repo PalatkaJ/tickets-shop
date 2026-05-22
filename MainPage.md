@@ -8,7 +8,7 @@ The goal of this project was to implement a functional, extensible application, 
 And then the application persists the information about a user using a database.
 ## Users section
 For trying out this application, after cloning the repository:
-```
+```shell
 $ cd tickets-shop
 $ docker build -t simple-tickets-app .
 $ docker run --rm -it simple-tickets-app

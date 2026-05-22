@@ -19,6 +19,6 @@ application, which should be pretty straight forward, if not, use the help optio
 # Other
 For more information please see the doxy generated documentation of the project (and more programming-related text from me in the title page).
 ```shell
-cd tickets-shop
-open docs/html/index.html
+$ cd tickets-shop
+$ open docs/html/index.html
 ```
