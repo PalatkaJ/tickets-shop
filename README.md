@@ -8,7 +8,7 @@ The goal of this project was to implement a functional, extensible application, 
 And then the application persists the information about a user using a database.
 ## Users section
 For trying out this application, after cloning the repository:
-```
+```shell
 $ cd tickets-shop
 $ docker build -t simple-tickets-app .
 $ docker run --rm -it simple-tickets-app
@@ -17,5 +17,8 @@ This should successfully start a docker container and run the application. You s
 application, which should be pretty straight forward, if not, use the help options for advices. For selecting an option from the menu just type the symbol and click enter
 (e.g. 1 - Sing Up, just press 1 and enter, or e - exit, just press e and enter).
 # Other
-For more information please see the doxy generated [documentation](https://palatkaj.github.io/tickets-shop/docs/html/index.html) of the project (and more programming-related text from me in the title page). 
-I had some troubles to make doxy see all of source the files so there are some missing, see the well documented source code for more detailed information please.
+For more information please see the doxy generated documentation of the project (and more programming-related text from me in the title page).
+```shell
+cd tickets-shop
+open docs/html/index.html
+```
