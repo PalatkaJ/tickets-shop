@@ -1,6 +1,5 @@
 # Tickets Shop
 ## Introduction
-## Goal
 The goal of this project was to implement a functional, extensible application, where one can sign in as:
 - Admin: is able to create an event
 - Regular User: is able to buy tickets to events created by admins
