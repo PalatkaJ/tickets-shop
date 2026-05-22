@@ -1,6 +1,0 @@
-var namespacetickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_users =
-[
-    [ "AdminMenus", "namespacetickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_users_1_1_admin_menus.html", "namespacetickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_users_1_1_admin_menus" ],
-    [ "RegularUserMenus", "namespacetickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_users_1_1_regular_user_menus.html", "namespacetickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_users_1_1_regular_user_menus" ],
-    [ "UsersMenuBuilderTemplate", "classtickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_users_1_1_users_menu_builder_template.html", "classtickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_users_1_1_users_menu_builder_template" ]
-];

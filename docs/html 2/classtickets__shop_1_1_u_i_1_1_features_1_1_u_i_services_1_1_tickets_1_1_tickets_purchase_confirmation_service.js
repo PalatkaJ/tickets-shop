@@ -1,5 +1,0 @@
-var classtickets__shop_1_1_u_i_1_1_features_1_1_u_i_services_1_1_tickets_1_1_tickets_purchase_confirmation_service =
-[
-    [ "Msg", "classtickets__shop_1_1_u_i_1_1_features_1_1_u_i_services_1_1_tickets_1_1_tickets_purchase_confirmation_service.html#a8de7961746518f8324b1d04c33a2fe43", null ],
-    [ "Subtitle", "classtickets__shop_1_1_u_i_1_1_features_1_1_u_i_services_1_1_tickets_1_1_tickets_purchase_confirmation_service.html#a79db682a7523e01e3cef7a2c66c0506e", null ]
-];

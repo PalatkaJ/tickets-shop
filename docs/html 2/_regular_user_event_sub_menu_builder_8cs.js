@@ -1,4 +1,0 @@
-var _regular_user_event_sub_menu_builder_8cs =
-[
-    [ "tickets_shop.UI.Features.Menus.MenuBuilders.Users.RegularUserMenus.RegularUserEventSubMenuBuilder", "classtickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_users_1_1_regular_user_m02e923286c67224f9099f5a4c5a10303.html", "classtickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_users_1_1_regular_user_m02e923286c67224f9099f5a4c5a10303" ]
-];

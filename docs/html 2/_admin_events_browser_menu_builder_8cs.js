@@ -1,4 +1,0 @@
-var _admin_events_browser_menu_builder_8cs =
-[
-    [ "tickets_shop.UI.Features.Menus.MenuBuilders.Users.AdminMenus.AdminEventsBrowserMenuBuilder", "classtickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_users_1_1_admin_menus_1_30e3361dedd281260c7a680f03fd2450.html", "classtickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_users_1_1_admin_menus_1_30e3361dedd281260c7a680f03fd2450" ]
-];

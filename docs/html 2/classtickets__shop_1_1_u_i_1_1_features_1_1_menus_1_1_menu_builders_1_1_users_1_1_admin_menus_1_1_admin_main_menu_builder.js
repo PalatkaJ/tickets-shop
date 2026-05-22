@@ -1,6 +1,0 @@
-var classtickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_users_1_1_admin_menus_1_1_admin_main_menu_builder =
-[
-    [ "BuildMiddleSpecific", "classtickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_users_1_1_admin_menus_1_1_admin_main_menu_builder.html#ade3e2aa8be6fd70203f44be5e1428f46", null ],
-    [ "_adminDetailService", "classtickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_users_1_1_admin_menus_1_1_admin_main_menu_builder.html#a7c43b250e65914f9365c792594d81439", null ],
-    [ "Title", "classtickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_users_1_1_admin_menus_1_1_admin_main_menu_builder.html#a2491a1614a2bb7d5257b801c11820650", null ]
-];

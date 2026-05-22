@@ -1,5 +1,0 @@
-<map id="tickets_shop.UI.Features.Menus.MenuBuilders.Users.RegularUserMenus.RegularUserMainMenuBuilder" name="tickets_shop.UI.Features.Menus.MenuBuilders.Users.RegularUserMenus.RegularUserMainMenuBuilder">
-<area shape="rect" id="Node000001" title="The concrete menu builder for the main screen displayed to a logged&#45;in Regular User." alt="" coords="5,135,260,231"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="16,5,249,87"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,99,135,136,130,134,131,104"/>
-</map>

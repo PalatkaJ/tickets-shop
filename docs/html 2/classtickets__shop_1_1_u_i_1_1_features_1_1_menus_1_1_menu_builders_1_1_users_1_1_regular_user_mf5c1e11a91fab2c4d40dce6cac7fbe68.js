@@ -1,8 +1,0 @@
-var classtickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_users_1_1_regular_user_mf5c1e11a91fab2c4d40dce6cac7fbe68 =
-[
-    [ "BuildMiddleSpecific", "classtickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_users_1_1_regular_user_mf5c1e11a91fab2c4d40dce6cac7fbe68.html#a778926df3d9b7869ec84b0d03eb81b3d", null ],
-    [ "LazyLoadAllEvents", "classtickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_users_1_1_regular_user_mf5c1e11a91fab2c4d40dce6cac7fbe68.html#ab768e3d6d8635f8ceda2041cbd90950c", null ],
-    [ "TryCreateEventItem", "classtickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_users_1_1_regular_user_mf5c1e11a91fab2c4d40dce6cac7fbe68.html#a982b057860cdac059f29da0ab0d3a739", null ],
-    [ "_helpService", "classtickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_users_1_1_regular_user_mf5c1e11a91fab2c4d40dce6cac7fbe68.html#a53f9600e4f96b8fbdc49f5652e6f41e7", null ],
-    [ "Title", "classtickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_users_1_1_regular_user_mf5c1e11a91fab2c4d40dce6cac7fbe68.html#aa6ba0e5026f3984d9ac12606e36067df", null ]
-];

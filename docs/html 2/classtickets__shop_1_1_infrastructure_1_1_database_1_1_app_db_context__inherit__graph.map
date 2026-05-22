@@ -1,5 +1,0 @@
-<map id="tickets_shop.Infrastructure.Database.AppDbContext" name="tickets_shop.Infrastructure.Database.AppDbContext">
-<area shape="rect" id="Node000001" title="The primary DbContext for the application, representing the session with the database." alt="" coords="5,120,270,388"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="80,5,196,72"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="139,84,140,120,135,119,137,89"/>
-</map>

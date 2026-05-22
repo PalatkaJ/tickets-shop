@@ -1,5 +1,0 @@
-<map id="tickets_shop.Infrastructure.Database.UserRepository" name="tickets_shop.Infrastructure.Database.UserRepository">
-<area shape="rect" id="Node000001" title="Implements the IUserRepository contract using Entity Framework Core to provide persistence and query ..." alt="" coords="5,196,217,338"/>
-<area shape="rect" id="Node000002" href="$interfacetickets__shop_1_1_application_1_1_database_a_p_i_1_1_i_user_repository.html" title="Defines the contract for a repository of users and specific loading patterns related to User entities..." alt="" coords="5,5,217,148"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,160,114,196,109,195,110,165"/>
-</map>

@@ -1,9 +1,0 @@
-var searchData=
-[
-  ['addevent_0',['AddEvent',['../interfacetickets__shop_1_1_application_1_1_database_a_p_i_1_1_i_events_repository.html#ab45400e69a25adf8b235a2dd0bbfe302',1,'tickets_shop.Application.DatabaseAPI.IEventsRepository.AddEvent()'],['../classtickets__shop_1_1_infrastructure_1_1_database_1_1_events_repository.html#abf90e29e09f0bf32c05db5501dceb94d',1,'tickets_shop.Infrastructure.Database.EventsRepository.AddEvent()']]],
-  ['addmoney_1',['AddMoney',['../classtickets__shop_1_1_domain_1_1_users_1_1_regular_user.html#a304f896fe6fe37e565257841cc001a0e',1,'tickets_shop::Domain::Users::RegularUser']]],
-  ['addticket_2',['AddTicket',['../interfacetickets__shop_1_1_application_1_1_database_a_p_i_1_1_i_tickets_repository.html#af8becab177cbadbac64d1ff33f2a8155',1,'tickets_shop.Application.DatabaseAPI.ITicketsRepository.AddTicket()'],['../classtickets__shop_1_1_infrastructure_1_1_database_1_1_tickets_repository.html#a489737a389aa40144cf9735eaa2c7dbf',1,'tickets_shop.Infrastructure.Database.TicketsRepository.AddTicket()']]],
-  ['adduser_3',['AddUser',['../interfacetickets__shop_1_1_application_1_1_database_a_p_i_1_1_i_user_repository.html#a4098e6007007d4d254e36583311fc11e',1,'tickets_shop.Application.DatabaseAPI.IUserRepository.AddUser()'],['../classtickets__shop_1_1_infrastructure_1_1_database_1_1_user_repository.html#a94f021e2133ab16586ab82f91cac2c6b',1,'tickets_shop.Infrastructure.Database.UserRepository.AddUser()']]],
-  ['associateticketwithevent_4',['AssociateTicketWithEvent',['../classtickets__shop_1_1_domain_1_1_tickets_1_1_ticket.html#ae130719b97d120334be9a8d9f7171957',1,'tickets_shop::Domain::Tickets::Ticket']]],
-  ['authenticationmenubuilder_5',['AuthenticationMenuBuilder',['../classtickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_authentication_1_1_authentication_menu_builder.html#a29fa9f5e7a4a804e316b864e48963058',1,'tickets_shop::UI::Features::Menus::MenuBuilders::Authentication::AuthenticationMenuBuilder']]]
-];

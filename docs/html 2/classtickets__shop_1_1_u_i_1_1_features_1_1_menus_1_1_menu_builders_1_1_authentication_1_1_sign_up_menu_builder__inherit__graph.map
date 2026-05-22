@@ -1,5 +1,0 @@
-<map id="tickets_shop.UI.Features.Menus.MenuBuilders.Authentication.SignUpMenuBuilder" name="tickets_shop.UI.Features.Menus.MenuBuilders.Authentication.SignUpMenuBuilder">
-<area shape="rect" id="Node000001" title="The concrete menu builder for the user registration (Sign Up) screen." alt="" coords="5,135,229,292"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="18,5,216,87"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,99,120,136,115,134,116,104"/>
-</map>
