@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['iauthenticationmodule_0',['IAuthenticationModule',['../interfacetickets__shop_1_1_application_1_1_authentication_1_1_i_authentication_module.html',1,'tickets_shop::Application::Authentication']]],
+  ['iauthenticationmodule_2ecs_1',['IAuthenticationModule.cs',['../_i_authentication_module_8cs.html',1,'']]],
+  ['id_2',['Id',['../classtickets__shop_1_1_domain_1_1_events_1_1_event.html#a6569a0f45c184e39350365e278b41b26',1,'tickets_shop.Domain.Events.Event.Id'],['../classtickets__shop_1_1_domain_1_1_tickets_1_1_ticket.html#ae0d43f7600152604657796d379509a3a',1,'tickets_shop.Domain.Tickets.Ticket.Id'],['../classtickets__shop_1_1_domain_1_1_users_1_1_user.html#a424bcda89a3605989a27fb7d2a1819d4',1,'tickets_shop.Domain.Users.User.Id']]],
+  ['ieventsrepository_3',['IEventsRepository',['../interfacetickets__shop_1_1_application_1_1_database_a_p_i_1_1_i_events_repository.html',1,'tickets_shop.Application.DatabaseAPI.IEventsRepository'],['../classtickets__shop_1_1_u_i_1_1_core_1_1_startup_1_1_program_setup.html#a92b8fdeb476b4cfc1f6b934cbc0d9fe6',1,'tickets_shop.UI.Core.Startup.ProgramSetup.IEventsRepository']]],
+  ['ieventsrepository_2ecs_4',['IEventsRepository.cs',['../_i_events_repository_8cs.html',1,'']]],
+  ['infrastructure_5',['Infrastructure',['../index.html#autotoc_md7',1,'']]],
+  ['initialize_6',['Initialize',['../classtickets__shop_1_1_u_i_1_1_core_1_1_startup_1_1_lazy_menu_builders_library.html#aef30b99d360d4198af3d78288cdedf24',1,'tickets_shop::UI::Core::Startup::LazyMenuBuildersLibrary']]],
+  ['initializeappstatemenu_7',['InitializeAppStateMenu',['../classtickets__shop_1_1_u_i_1_1_core_1_1_startup_1_1_console_app_controller.html#a239e9379531d14c2afe396d0c3fa855f',1,'tickets_shop::UI::Core::Startup::ConsoleAppController']]],
+  ['initializeappstaterepositories_8',['InitializeAppStateRepositories',['../classtickets__shop_1_1_u_i_1_1_core_1_1_startup_1_1_console_app_controller.html#abf41b8f8153c237835045f779b629427',1,'tickets_shop::UI::Core::Startup::ConsoleAppController']]],
+  ['initializerepositories_9',['InitializeRepositories',['../classtickets__shop_1_1_u_i_1_1_core_1_1_startup_1_1_program_setup.html#a169cc9be072334d5ee9acb594def6df9',1,'tickets_shop::UI::Core::Startup::ProgramSetup']]],
+  ['introduction_10',['Introduction',['../index.html#autotoc_md1',1,'Introduction'],['../md__r_e_a_d_m_e.html#autotoc_md12',1,'Introduction']]],
+  ['invalidpassword_11',['InvalidPassword',['../classtickets__shop_1_1_domain_1_1_error_messages.html#a56987ded9cf269cf2ca16c0dbbcf0654',1,'tickets_shop::Domain::ErrorMessages']]],
+  ['itemdetailservice_2d1_2dg_12',['ItemDetailService-1-g',['../classtickets__shop_1_1_u_i_1_1_features_1_1_u_i_services_1_1_items_1_1_item_detail_service-1-g.html',1,'tickets_shop::UI::Features::UIServices::Items']]],
+  ['itemdetailservice_2ecs_13',['ItemDetailService.cs',['../_item_detail_service_8cs.html',1,'']]],
+  ['iticketsrepository_14',['ITicketsRepository',['../interfacetickets__shop_1_1_application_1_1_database_a_p_i_1_1_i_tickets_repository.html',1,'tickets_shop::Application::DatabaseAPI']]],
+  ['iticketsrepository_2ecs_15',['ITicketsRepository.cs',['../_i_tickets_repository_8cs.html',1,'']]],
+  ['iuserrepository_16',['IUserRepository',['../interfacetickets__shop_1_1_application_1_1_database_a_p_i_1_1_i_user_repository.html',1,'tickets_shop.Application.DatabaseAPI.IUserRepository'],['../classtickets__shop_1_1_u_i_1_1_core_1_1_startup_1_1_program_setup.html#af6a4fd16823ca2059aa682174194e3e2',1,'tickets_shop.UI.Core.Startup.ProgramSetup.IUserRepository']]],
+  ['iuserrepository_2ecs_17',['IUserRepository.cs',['../_i_user_repository_8cs.html',1,'']]]
+];

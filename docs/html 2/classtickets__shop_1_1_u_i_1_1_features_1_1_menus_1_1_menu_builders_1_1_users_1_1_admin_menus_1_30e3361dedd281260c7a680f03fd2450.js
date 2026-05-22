@@ -1,0 +1,7 @@
+var classtickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_users_1_1_admin_menus_1_30e3361dedd281260c7a680f03fd2450 =
+[
+    [ "BuildMiddleSpecific", "classtickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_users_1_1_admin_menus_1_30e3361dedd281260c7a680f03fd2450.html#a88dd8df7d0e394619e455dac473f99e2", null ],
+    [ "_helpService", "classtickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_users_1_1_admin_menus_1_30e3361dedd281260c7a680f03fd2450.html#a92197081e82e189104e59ec2850fc709", null ],
+    [ "_itemDetailService", "classtickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_users_1_1_admin_menus_1_30e3361dedd281260c7a680f03fd2450.html#a0b67262d2c74ccc8b48956fc6a0fbb4c", null ],
+    [ "Title", "classtickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_users_1_1_admin_menus_1_30e3361dedd281260c7a680f03fd2450.html#aa137a64db15ad42f59df783682932a7d", null ]
+];

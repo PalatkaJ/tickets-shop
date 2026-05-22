@@ -1,0 +1,5 @@
+<map id="tickets_shop.Infrastructure.Database.TicketsRepository" name="tickets_shop.Infrastructure.Database.TicketsRepository">
+<area shape="rect" id="Node000001" title="Implements the ITicketsRepository contract using Entity Framework Core to provide simple persistence ..." alt="" coords="18,155,195,257"/>
+<area shape="rect" id="Node000002" href="$interfacetickets__shop_1_1_application_1_1_database_a_p_i_1_1_i_tickets_repository.html" title="Defines the contract for persistence operations specifically targeting the Ticket entity." alt="" coords="5,5,208,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,120,109,156,104,154,105,125"/>
+</map>

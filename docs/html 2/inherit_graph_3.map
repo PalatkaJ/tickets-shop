@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$interfacetickets__shop_1_1_application_1_1_database_a_p_i_1_1_i_events_repository.html" title="Defines the contract for persistence operations related to the Event entity." alt="" coords="5,5,217,46"/>
+<area shape="rect" id="Node000001" href="$classtickets__shop_1_1_infrastructure_1_1_database_1_1_events_repository.html" title="Implements the IEventsRepository contract using Entity Framework Core to provide persistence and quer..." alt="" coords="265,5,450,46"/>
+<area shape="poly" id="edge5_Node000000_Node000001" title=" " alt="" coords="232,23,267,26,262,26,232,28"/>
+</map>

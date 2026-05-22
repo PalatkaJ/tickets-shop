@@ -1,0 +1,27 @@
+<map id="tickets_shop.UI.Core.Startup.ApplicationState" name="tickets_shop.UI.Core.Startup.ApplicationState">
+<area shape="rect" id="Node000001" title="A central, mutable container that holds the current state of the application (e.g...." alt="" coords="472,1232,657,1334"/>
+<area shape="rect" id="Node000002" href="$classtickets__shop_1_1_domain_1_1_users_1_1_user.html" title="Provides the abstract base definition for all user types (e.g., Admin, RegularUser) in the applicatio..." alt="" coords="457,551,662,699"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="536,696,522,770,508,880,502,966,506,1052,522,1160,538,1218,533,1215,517,1162,500,1052,496,966,502,879,517,770,534,701"/>
+<area shape="rect" id="Node000004" href="$classtickets__shop_1_1_u_i_1_1_core_1_1_startup_1_1_application_state.html" title="A central, mutable container that holds the current state of the application (e.g...." alt="" coords="531,770,716,872"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="584,696,604,754,599,753,583,701"/>
+<area shape="rect" id="Node000003" href="$classtickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_menu_builder_template.html" title="Provides an abstract template for constructing standardized application menus." alt="" coords="531,943,740,1161"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="604,1159,587,1218,583,1214,600,1163"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="725,941,727,919,721,897,716,887,718,882,726,895,732,919,729,944"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="617,869,616,896,615,927,611,925,611,896,614,874"/>
+<area shape="rect" id="Node000005" href="$classtickets__shop_1_1_u_i_1_1_features_1_1_u_i_services_1_1_menu_1_1_menu_service.html" title="A core application service responsible for displaying menus and collecting user input for option sele..." alt="" coords="241,554,432,696"/>
+<area shape="poly" id="edge12_Node000001_Node000005" title=" " alt="" coords="291,693,286,721,287,746,307,815,333,883,395,1014,461,1128,521,1219,515,1218,457,1131,390,1016,328,885,302,816,282,746,281,720,289,698"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="424,694,495,744,521,761,515,762,493,748,424,699"/>
+<area shape="rect" id="Node000006" href="$classtickets__shop_1_1_u_i_1_1_features_1_1_u_i_services_1_1_u_i_service.html" title="Provides a base class for all application&#45;specific UI services (screens/pages)." alt="" coords="256,339,418,502"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="337,514,339,555,334,554,336,520"/>
+<area shape="rect" id="Node000007" href="$classtickets__shop_1_1_u_i_1_1_core_1_1_input_output_1_1_console_i_o_template.html" title="Provides a base template for creating standardized console&#45;based views (pages or screens)." alt="" coords="252,5,421,290"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="337,302,339,340,334,339,336,307"/>
+<area shape="rect" id="Node000008" href="$interfacetickets__shop_1_1_application_1_1_database_a_p_i_1_1_i_user_repository.html" title="Defines the contract for a repository of users and specific loading patterns related to User entities..." alt="" coords="5,554,217,696"/>
+<area shape="poly" id="edge13_Node000001_Node000008" title=" " alt="" coords="126,693,156,796,201,919,231,983,266,1046,306,1105,352,1159,403,1201,460,1237,455,1237,400,1206,348,1163,302,1108,261,1048,226,985,196,921,151,797,126,699"/>
+<area shape="poly" id="edge9_Node000004_Node000008" title=" " alt="" coords="216,691,230,697,302,728,376,755,517,795,512,798,375,760,300,733,228,701,218,695"/>
+<area shape="rect" id="Node000009" href="$interfacetickets__shop_1_1_application_1_1_database_a_p_i_1_1_i_tickets_repository.html" title="Defines the contract for persistence operations specifically targeting the Ticket entity." alt="" coords="957,574,1159,676"/>
+<area shape="poly" id="edge14_Node000001_Node000009" title=" " alt="" coords="1049,674,1023,776,977,905,946,973,908,1041,865,1105,815,1163,783,1190,747,1214,673,1250,672,1245,745,1209,779,1186,811,1159,861,1102,904,1038,941,971,972,903,1018,774,1046,678"/>
+<area shape="poly" id="edge10_Node000004_Node000009" title=" " alt="" coords="982,677,946,701,838,752,733,790,731,785,836,747,943,697,986,675"/>
+<area shape="rect" id="Node000010" href="$interfacetickets__shop_1_1_application_1_1_database_a_p_i_1_1_i_events_repository.html" title="Defines the contract for persistence operations related to the Event entity." alt="" coords="685,564,932,686"/>
+<area shape="poly" id="edge15_Node000001_Node000010" title=" " alt="" coords="834,683,845,723,845,746,841,869,836,967,828,1012,812,1059,788,1108,753,1163,717,1203,672,1235,670,1230,713,1199,749,1159,784,1105,807,1057,822,1011,831,966,836,869,839,746,839,723,832,688"/>
+<area shape="poly" id="edge11_Node000004_Node000010" title=" " alt="" coords="754,684,684,760,681,756,750,688"/>
+</map>

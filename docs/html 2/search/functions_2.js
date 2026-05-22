@@ -1,0 +1,12 @@
+var searchData=
+[
+  ['calculatemoneyspent_0',['CalculateMoneySpent',['../classtickets__shop_1_1_domain_1_1_users_1_1_regular_user.html#a57665573fb2b556b32b18107fca56d43',1,'tickets_shop::Domain::Users::RegularUser']]],
+  ['changemenuto_1',['ChangeMenuTo',['../classtickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_menu_builder_template.html#af89de81f58472c0b1bb8ad36ec8afa59',1,'tickets_shop::UI::Features::Menus::MenuBuilders::MenuBuilderTemplate']]],
+  ['checkpurchasevalid_2',['CheckPurchaseValid',['../classtickets__shop_1_1_application_1_1_service_handlers_1_1_tickets_purchase_handler.html#ab48fec166bebe71c10e73baeb2cab548',1,'tickets_shop::Application::ServiceHandlers::TicketsPurchaseHandler']]],
+  ['chooseoption_3',['ChooseOption',['../classtickets__shop_1_1_u_i_1_1_features_1_1_u_i_services_1_1_menu_1_1_menu_service.html#ab5ba66e0683dbc7b94d3f07d77bcec23',1,'tickets_shop::UI::Features::UIServices::Menu::MenuService']]],
+  ['clear_4',['Clear',['../classtickets__shop_1_1_u_i_1_1_core_1_1_input_output_1_1_console_i_o_template.html#ac21eccf4facab5fb0711ab49d00913dd',1,'tickets_shop::UI::Core::InputOutput::ConsoleIOTemplate']]],
+  ['consoleappcontroller_5',['ConsoleAppController',['../classtickets__shop_1_1_u_i_1_1_core_1_1_startup_1_1_console_app_controller.html#afd6da3957a04d0d636d1bd8bcd4edca2',1,'tickets_shop::UI::Core::Startup::ConsoleAppController']]],
+  ['create_6',['Create',['../classtickets__shop_1_1_infrastructure_1_1_database_1_1_app_db_context.html#ac225ef11bb1cea26b04b813ad1230fc0',1,'tickets_shop::Infrastructure::Database::AppDbContext']]],
+  ['createitem_7',['CreateItem',['../classtickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_menu_builder_template.html#a2d42bb6adab835b0f7c44e6d1ca538d0',1,'tickets_shop.UI.Features.Menus.MenuBuilders.MenuBuilderTemplate.CreateItem(string title, Action action)'],['../classtickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_menu_builder_template.html#a5964622e7b42d3c01e6fbc77d5a4d70e',1,'tickets_shop.UI.Features.Menus.MenuBuilders.MenuBuilderTemplate.CreateItem(string id, string title, Action action)']]],
+  ['createnonselectableitem_8',['CreateNonSelectableItem',['../classtickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_menu_builder_template.html#ae0cb15da0717da33bfa9332d5db8e1d2',1,'tickets_shop::UI::Features::Menus::MenuBuilders::MenuBuilderTemplate']]]
+];
