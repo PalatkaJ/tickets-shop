@@ -1,0 +1,9 @@
+<map id="tickets_shop.UI.Features.UIServices.UIServiceSpecializers.MessageService" name="tickets_shop.UI.Features.UIServices.UIServiceSpecializers.MessageService">
+<area shape="rect" id="Node000001" title="Provides an abstract base class for all UI services that display a simple, static message to the user..." alt="" coords="5,693,218,789"/>
+<area shape="rect" id="Node000002" href="$classtickets__shop_1_1_u_i_1_1_features_1_1_u_i_services_1_1_u_i_service_specializers_1_1_enter_to_continue_decorator.html" title="An abstract decorator class that overrides the standard footer behavior of a UIService." alt="" coords="5,549,218,645"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,658,114,694,109,692,110,663"/>
+<area shape="rect" id="Node000003" href="$classtickets__shop_1_1_u_i_1_1_features_1_1_u_i_services_1_1_u_i_service.html" title="Provides a base class for all application&#45;specific UI services (screens/pages)." alt="" coords="31,338,192,501"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="112,513,114,549,109,548,111,518"/>
+<area shape="rect" id="Node000004" href="$classtickets__shop_1_1_u_i_1_1_core_1_1_input_output_1_1_console_i_o_template.html" title="Provides a base template for creating standardized console&#45;based views (pages or screens)." alt="" coords="27,5,196,290"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="112,302,114,339,109,338,111,308"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="tickets_shop.UI.Features.Menus.MenuBuilders.Users.AdminMenus.AdminMainMenuBuilder" name="tickets_shop.UI.Features.Menus.MenuBuilders.Users.AdminMenus.AdminMainMenuBuilder">
+<area shape="rect" id="Node000001" title="The concrete menu builder for the main screen displayed to a logged&#45;in Admin user." alt="" coords="89,1051,301,1147"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,870,238,952"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,963,179,1051,174,1051,141,968"/>
+<area shape="rect" id="Node000003" href="$classtickets__shop_1_1_u_i_1_1_features_1_1_u_i_services_1_1_items_1_1_item_detail_service-1-g.html" title="A generic UI service responsible for displaying the detailed information of any specified domain enti..." alt="" coords="262,843,483,980"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="311,978,253,1041,249,1037,306,981"/>
+<area shape="rect" id="Node000004" href="$classtickets__shop_1_1_u_i_1_1_features_1_1_u_i_services_1_1_u_i_service_specializers_1_1_message_service.html" title="Provides an abstract base class for all UI services that display a simple, static message to the user..." alt="" coords="266,697,479,793"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="374,806,375,844,370,842,371,811"/>
+<area shape="rect" id="Node000005" href="$classtickets__shop_1_1_u_i_1_1_features_1_1_u_i_services_1_1_u_i_service_specializers_1_1_enter_to_continue_decorator.html" title="An abstract decorator class that overrides the standard footer behavior of a UIService." alt="" coords="266,551,479,648"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="373,660,375,698,370,697,371,665"/>
+<area shape="rect" id="Node000006" href="$classtickets__shop_1_1_u_i_1_1_features_1_1_u_i_services_1_1_u_i_service.html" title="Provides a base class for all application&#45;specific UI services (screens/pages)." alt="" coords="292,339,453,502"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="373,515,375,552,370,551,372,520"/>
+<area shape="rect" id="Node000007" href="$classtickets__shop_1_1_u_i_1_1_core_1_1_input_output_1_1_console_i_o_template.html" title="Provides a base template for creating standardized console&#45;based views (pages or screens)." alt="" coords="288,5,457,290"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="373,302,375,340,370,339,372,307"/>
+</map>

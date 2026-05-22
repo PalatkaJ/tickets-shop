@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$interfacetickets__shop_1_1_application_1_1_authentication_1_1_i_authentication_module.html" title="Defines the contract for an authentication service responsible for user registration and login operat..." alt="" coords="5,5,201,61"/>
+<area shape="rect" id="Node000001" href="$classtickets__shop_1_1_infrastructure_1_1_authentication_1_1_authentication_module.html" title="Provides a concrete, infrastructure&#45;level implementation of the authentication logic." alt="" coords="249,13,482,54"/>
+<area shape="poly" id="edge4_Node000000_Node000001" title=" " alt="" coords="216,31,251,33,246,33,216,36"/>
+</map>

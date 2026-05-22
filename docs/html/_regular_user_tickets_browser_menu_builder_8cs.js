@@ -1,0 +1,4 @@
+var _regular_user_tickets_browser_menu_builder_8cs =
+[
+    [ "tickets_shop.UI.Features.Menus.MenuBuilders.Users.RegularUserMenus.RegularUserTicketsBrowserMenuBuilder", "classtickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_users_1_1_regular_user_mb53ec450a576fbf9e28455d38efc87f1.html", "classtickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_users_1_1_regular_user_mb53ec450a576fbf9e28455d38efc87f1" ]
+];

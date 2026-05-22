@@ -1,0 +1,8 @@
+var classtickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_authentication_1_1_authentication_menu_builder =
+[
+    [ "AuthenticationMenuBuilder", "classtickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_authentication_1_1_authentication_menu_builder.html#a29fa9f5e7a4a804e316b864e48963058", null ],
+    [ "BuildMiddle", "classtickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_authentication_1_1_authentication_menu_builder.html#a41ef6beb33f87fc3da0cd52947be0911", null ],
+    [ "_logInService", "classtickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_authentication_1_1_authentication_menu_builder.html#a891a9979e22b1568a660783288ed38e6", null ],
+    [ "_onUserFound", "classtickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_authentication_1_1_authentication_menu_builder.html#a0e868aad8daf667fc8f45b4442892f27", null ],
+    [ "Title", "classtickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_authentication_1_1_authentication_menu_builder.html#a9d21423ed2a796965f88a5a4c112f402", null ]
+];

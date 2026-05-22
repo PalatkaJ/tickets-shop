@@ -1,0 +1,5 @@
+var classtickets__shop_1_1_u_i_1_1_features_1_1_u_i_services_1_1_authentication_1_1_authentication_confirmation_service =
+[
+    [ "Msg", "classtickets__shop_1_1_u_i_1_1_features_1_1_u_i_services_1_1_authentication_1_1_authentication_confirmation_service.html#a8e838dd56c7f1024644261c9158e954e", null ],
+    [ "Subtitle", "classtickets__shop_1_1_u_i_1_1_features_1_1_u_i_services_1_1_authentication_1_1_authentication_confirmation_service.html#aef0e5301a7154b9d111641df20e77094", null ]
+];

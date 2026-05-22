@@ -1,0 +1,5 @@
+var classtickets__shop_1_1_u_i_1_1_features_1_1_u_i_services_1_1_authentication_1_1_log_in_service =
+[
+    [ "LogInService", "classtickets__shop_1_1_u_i_1_1_features_1_1_u_i_services_1_1_authentication_1_1_log_in_service.html#af4d4c0555d084b5187239ac57b07c7e2", null ],
+    [ "Subtitle", "classtickets__shop_1_1_u_i_1_1_features_1_1_u_i_services_1_1_authentication_1_1_log_in_service.html#a23fd803b58f1f08f555c0315636948cf", null ]
+];

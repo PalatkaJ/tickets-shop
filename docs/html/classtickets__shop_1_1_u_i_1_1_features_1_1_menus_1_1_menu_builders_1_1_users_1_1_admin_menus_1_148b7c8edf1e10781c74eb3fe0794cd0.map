@@ -1,0 +1,5 @@
+<map id="tickets_shop.UI.Features.Menus.MenuBuilders.Users.AdminMenus.AdminMainMenuBuilder" name="tickets_shop.UI.Features.Menus.MenuBuilders.Users.AdminMenus.AdminMainMenuBuilder">
+<area shape="rect" id="Node000001" title="The concrete menu builder for the main screen displayed to a logged&#45;in Admin user." alt="" coords="15,135,228,251"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,238,87"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,99,124,135,119,134,120,104"/>
+</map>

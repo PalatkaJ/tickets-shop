@@ -1,0 +1,5 @@
+<map id="tickets_shop.UI.Features.Menus.MenuBuilders.Users.AdminMenus.AdminEventsBrowserMenuBuilder" name="tickets_shop.UI.Features.Menus.MenuBuilders.Users.AdminMenus.AdminEventsBrowserMenuBuilder">
+<area shape="rect" id="Node000001" title="The concrete menu builder for the screen that allows an Admin user to browse and select all the Event..." alt="" coords="5,135,257,272"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="15,5,248,87"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,99,134,136,129,134,130,104"/>
+</map>
