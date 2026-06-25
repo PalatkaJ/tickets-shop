@@ -4,6 +4,7 @@
 riderModule.iml
 /_ReSharper.Caches/
 .idea/
+publish/
 
 count_cs_size.py
 identifier.sqlite
