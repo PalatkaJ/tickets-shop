@@ -11,5 +11,5 @@ var searchData=
   ['displayfooter_8',['DisplayFooter',['../classtickets__shop_1_1_u_i_1_1_core_1_1_input_output_1_1_console_i_o_template.html#a535c21c491d8b80cf5083dd4929a7135',1,'tickets_shop.UI.Core.InputOutput.ConsoleIOTemplate.DisplayFooter()'],['../classtickets__shop_1_1_u_i_1_1_features_1_1_u_i_services_1_1_u_i_service_specializers_1_1_enter_to_continue_decorator.html#a4281ff405c4145388d8ee23c572bd962',1,'tickets_shop.UI.Features.UIServices.UIServiceSpecializers.EnterToContinueDecorator.DisplayFooter()']]],
   ['displaysubtitle_9',['DisplaySubtitle',['../classtickets__shop_1_1_u_i_1_1_features_1_1_u_i_services_1_1_u_i_service.html#aa3477da39d3d3e3102093f438e08c869',1,'tickets_shop::UI::Features::UIServices::UIService']]],
   ['displaytitle_10',['DisplayTitle',['../classtickets__shop_1_1_u_i_1_1_core_1_1_input_output_1_1_console_i_o_template.html#aad5686f1121fecc599386a3b7e77cb15',1,'tickets_shop::UI::Core::InputOutput::ConsoleIOTemplate']]],
-  ['domain_11',['Domain',['../index.html#autotoc_md5',1,'']]]
+  ['domain_11',['Domain',['../index.html#autotoc_md4',1,'']]]
 ];

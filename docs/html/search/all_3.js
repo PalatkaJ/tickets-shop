@@ -5,7 +5,7 @@ var searchData=
   ['checkpurchasevalid_2',['CheckPurchaseValid',['../classtickets__shop_1_1_application_1_1_service_handlers_1_1_tickets_purchase_handler.html#ab48fec166bebe71c10e73baeb2cab548',1,'tickets_shop::Application::ServiceHandlers::TicketsPurchaseHandler']]],
   ['chooseoption_3',['ChooseOption',['../classtickets__shop_1_1_u_i_1_1_features_1_1_u_i_services_1_1_menu_1_1_menu_service.html#ab5ba66e0683dbc7b94d3f07d77bcec23',1,'tickets_shop::UI::Features::UIServices::Menu::MenuService']]],
   ['clear_4',['Clear',['../classtickets__shop_1_1_u_i_1_1_core_1_1_input_output_1_1_console_i_o_template.html#ac21eccf4facab5fb0711ab49d00913dd',1,'tickets_shop::UI::Core::InputOutput::ConsoleIOTemplate']]],
-  ['conclusion_5',['Conclusion',['../index.html#autotoc_md10',1,'']]],
+  ['conclusion_5',['Conclusion',['../index.html#autotoc_md9',1,'']]],
   ['consoleappcontroller_6',['ConsoleAppController',['../classtickets__shop_1_1_u_i_1_1_core_1_1_startup_1_1_console_app_controller.html',1,'tickets_shop.UI.Core.Startup.ConsoleAppController'],['../classtickets__shop_1_1_u_i_1_1_core_1_1_startup_1_1_console_app_controller.html#afd6da3957a04d0d636d1bd8bcd4edca2',1,'tickets_shop.UI.Core.Startup.ConsoleAppController.ConsoleAppController()']]],
   ['consoleappcontroller_2ecs_7',['ConsoleAppController.cs',['../_console_app_controller_8cs.html',1,'']]],
   ['consoleiotemplate_8',['ConsoleIOTemplate',['../classtickets__shop_1_1_u_i_1_1_core_1_1_input_output_1_1_console_i_o_template.html',1,'tickets_shop::UI::Core::InputOutput']]],

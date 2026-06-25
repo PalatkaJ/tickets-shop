@@ -27,10 +27,9 @@ var NAVTREE =
   [ "Tickets Trading", "index.html", [
     [ "Tickets Shop", "index.html", "index" ],
     [ "Tickets Shop", "md__r_e_a_d_m_e.html", [
-      [ "Introduction", "md__r_e_a_d_m_e.html#autotoc_md12", null ],
-      [ "Goal", "md__r_e_a_d_m_e.html#autotoc_md13", null ],
-      [ "Users section", "md__r_e_a_d_m_e.html#autotoc_md14", null ],
-      [ "Other", "md__r_e_a_d_m_e.html#autotoc_md15", null ]
+      [ "Introduction", "md__r_e_a_d_m_e.html#autotoc_md11", null ],
+      [ "Users section", "md__r_e_a_d_m_e.html#autotoc_md12", null ],
+      [ "Other", "md__r_e_a_d_m_e.html#autotoc_md13", null ]
     ] ],
     [ "Packages", "namespaces.html", [
       [ "Package List", "namespaces.html", "namespaces_dup" ],

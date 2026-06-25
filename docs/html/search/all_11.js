@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['ui_0',['UI',['../index.html#autotoc_md8',1,'']]],
+  ['ui_0',['UI',['../index.html#autotoc_md7',1,'']]],
   ['uiservice_1',['UIService',['../classtickets__shop_1_1_u_i_1_1_features_1_1_u_i_services_1_1_u_i_service.html',1,'tickets_shop::UI::Features::UIServices']]],
   ['uiservice_2ecs_2',['UIService.cs',['../_u_i_service_8cs.html',1,'']]],
   ['user_3',['User',['../classtickets__shop_1_1_domain_1_1_users_1_1_user.html',1,'tickets_shop.Domain.Users.User'],['../classtickets__shop_1_1_application_1_1_service_handlers_1_1_tickets_purchase_handler.html#aaf3070814e61c20457492c7e06b80423',1,'tickets_shop.Application.ServiceHandlers.TicketsPurchaseHandler.User'],['../classtickets__shop_1_1_domain_1_1_users_1_1_user.html#aa3ee889333b6d9c90beb903c6cd4d88b',1,'tickets_shop.Domain.Users.User.User()']]],
@@ -12,7 +12,7 @@ var searchData=
   ['userrepository_2ecs_9',['UserRepository.cs',['../_user_repository_8cs.html',1,'']]],
   ['userroles_10',['UserRoles',['../classtickets__shop_1_1_domain_1_1_user_roles.html',1,'tickets_shop::Domain']]],
   ['users_11',['Users',['../classtickets__shop_1_1_infrastructure_1_1_database_1_1_app_db_context.html#a66e1e7a03186e449a655a07a95f5b488',1,'tickets_shop::Infrastructure::Database::AppDbContext']]],
-  ['users_20section_12',['Users section',['../index.html#autotoc_md3',1,'Users section'],['../md__r_e_a_d_m_e.html#autotoc_md14',1,'Users section']]],
+  ['users_20section_12',['Users section',['../index.html#autotoc_md2',1,'Users section'],['../md__r_e_a_d_m_e.html#autotoc_md12',1,'Users section']]],
   ['usersmenubuildertemplate_13',['UsersMenuBuilderTemplate',['../classtickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_users_1_1_users_menu_builder_template.html',1,'tickets_shop::UI::Features::Menus::MenuBuilders::Users']]],
   ['usersmenubuildertemplate_2ecs_14',['UsersMenuBuilderTemplate.cs',['../_users_menu_builder_template_8cs.html',1,'']]]
 ];

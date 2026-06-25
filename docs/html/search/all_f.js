@@ -1,8 +1,8 @@
 var searchData=
 [
   ['seat_0',['Seat',['../classtickets__shop_1_1_domain_1_1_tickets_1_1_ticket.html#a5fe12ab21dd7c031ccd0b54370927311',1,'tickets_shop::Domain::Tickets::Ticket']]],
-  ['section_1',['section',['../index.html#autotoc_md4',1,'Programming section'],['../index.html#autotoc_md3',1,'Users section'],['../md__r_e_a_d_m_e.html#autotoc_md14',1,'Users section']]],
-  ['services_2',['Services',['../index.html#autotoc_md9',1,'']]],
+  ['section_1',['section',['../index.html#autotoc_md3',1,'Programming section'],['../index.html#autotoc_md2',1,'Users section'],['../md__r_e_a_d_m_e.html#autotoc_md12',1,'Users section']]],
+  ['services_2',['Services',['../index.html#autotoc_md8',1,'']]],
   ['setfields_3',['SetFields',['../classtickets__shop_1_1_domain_1_1_events_1_1_event.html#a9e6e982312bed85bb7818112e300c003',1,'tickets_shop.Domain.Events.Event.SetFields()'],['../classtickets__shop_1_1_domain_1_1_users_1_1_user.html#acc67d306f34a2c2c9ed990b675b7893b',1,'tickets_shop.Domain.Users.User.SetFields()']]],
   ['setorganizer_4',['SetOrganizer',['../classtickets__shop_1_1_domain_1_1_events_1_1_event.html#a277f9c41628a07beb75fd4383db68996',1,'tickets_shop::Domain::Events::Event']]],
   ['setowner_5',['SetOwner',['../classtickets__shop_1_1_domain_1_1_tickets_1_1_ticket.html#a7df65144b700833e42e7f1b353395fc2',1,'tickets_shop::Domain::Tickets::Ticket']]],
