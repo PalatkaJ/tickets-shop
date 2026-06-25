@@ -1,0 +1,20 @@
+<map id="tickets_shop.UI.Features.Menus.MenuBuilders.Users.AdminMenus.AdminEventsBrowserMenuBuilder" name="tickets_shop.UI.Features.Menus.MenuBuilders.Users.AdminMenus.AdminEventsBrowserMenuBuilder">
+<area shape="rect" id="Node000001" title="The concrete menu builder for the screen that allows an Admin user to browse and select all the Event..." alt="" coords="160,1291,412,1388"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,1132,238,1213"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,1220,242,1291,237,1292,170,1225"/>
+<area shape="rect" id="Node000003" href="$classtickets__shop_1_1_u_i_1_1_features_1_1_u_i_services_1_1_items_1_1_item_detail_service-1-g.html" title="A generic UI service responsible for displaying the detailed information of any specified domain enti..." alt="" coords="203,963,424,1100"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="302,1098,300,1124,289,1275,284,1273,294,1124,299,1102"/>
+<area shape="rect" id="Node000004" href="$classtickets__shop_1_1_u_i_1_1_features_1_1_u_i_services_1_1_u_i_service_specializers_1_1_message_service.html" title="Provides an abstract base class for all UI services that display a simple, static message to the user..." alt="" coords="279,697,492,793"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="372,805,333,964,328,962,369,810"/>
+<area shape="rect" id="Node000009" href="$classtickets__shop_1_1_u_i_1_1_features_1_1_u_i_services_1_1_u_i_service_specializers_1_1_help_service.html" title="Provides an abstract base class for all Help&#45;specific informational screens." alt="" coords="421,843,633,939"/>
+<area shape="poly" id="edge9_Node000009_Node000004" title=" " alt="" coords="443,801,484,843,478,843,443,807"/>
+<area shape="rect" id="Node000005" href="$classtickets__shop_1_1_u_i_1_1_features_1_1_u_i_services_1_1_u_i_service_specializers_1_1_enter_to_continue_decorator.html" title="An abstract decorator class that overrides the standard footer behavior of a UIService." alt="" coords="279,551,492,648"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="386,660,388,698,383,697,385,665"/>
+<area shape="rect" id="Node000006" href="$classtickets__shop_1_1_u_i_1_1_features_1_1_u_i_services_1_1_u_i_service.html" title="Provides a base class for all application&#45;specific UI services (screens/pages)." alt="" coords="305,339,466,502"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="386,515,388,552,383,551,385,520"/>
+<area shape="rect" id="Node000007" href="$classtickets__shop_1_1_u_i_1_1_core_1_1_input_output_1_1_console_i_o_template.html" title="Provides a base template for creating standardized console&#45;based views (pages or screens)." alt="" coords="301,5,470,290"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="386,302,388,340,383,339,385,307"/>
+<area shape="rect" id="Node000008" href="$classtickets__shop_1_1_u_i_1_1_features_1_1_u_i_services_1_1_items_1_1_browse_items_help_service-1-g.html" title="A generic help service that provides instructions to the user on how to interact with a screen that d..." alt="" coords="431,1124,652,1220"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="471,1219,374,1285,371,1280,467,1221"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="532,952,542,1125,537,1123,529,956"/>
+</map>

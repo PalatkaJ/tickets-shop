@@ -1,0 +1,5 @@
+<map id="tickets_shop.UI.Features.Menus.MenuBuilders.MenuBuilderTemplate" name="tickets_shop.UI.Features.Menus.MenuBuilders.MenuBuilderTemplate">
+<area shape="rect" id="Node000001" title="Provides an abstract template for constructing standardized application menus." alt="" coords="13,5,222,244"/>
+<area shape="rect" id="Node000002" href="$classtickets__shop_1_1_u_i_1_1_features_1_1_menus_1_1_menu_builders_1_1_authentication_1_1_authentication_menu_builder.html" title="The concrete menu builder for the application&#39;s initial, unauthenticated screen." alt="" coords="5,292,229,449"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,256,120,293,115,292,116,261"/>
+</map>

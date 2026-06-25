@@ -1,7 +1,4 @@
-# Dockerfile
-FROM mcr.microsoft.com/dotnet/sdk:9.0
-WORKDIR /tickets-shop
-
-COPY . .
-
-ENTRYPOINT ["dotnet", "run", "--project", "src/tickets-shop.UI"]
+FROM mcr.microsoft.com/dotnet/runtime:9.0
+WORKDIR /app
+COPY publish/ .
+ENTRYPOINT ["dotnet", "tickets-shop.UI.dll"]

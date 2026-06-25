@@ -1,0 +1,15 @@
+<map id="tickets_shop.UI.Features.UIServices.Tickets.TicketsPurchaseService" name="tickets_shop.UI.Features.UIServices.Tickets.TicketsPurchaseService">
+<area shape="rect" id="Node000001" title="A concrete UI service responsible for managing the ticket purchase workflow." alt="" coords="187,995,411,1152"/>
+<area shape="rect" id="Node000002" href="$classtickets__shop_1_1_u_i_1_1_features_1_1_u_i_services_1_1_u_i_service.html" title="Provides a base class for all application&#45;specific UI services (screens/pages)." alt="" coords="9,660,170,822"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,833,185,923,237,995,231,995,181,925,133,838"/>
+<area shape="rect" id="Node000003" href="$classtickets__shop_1_1_u_i_1_1_core_1_1_input_output_1_1_console_i_o_template.html" title="Provides a base template for creating standardized console&#45;based views (pages or screens)." alt="" coords="5,202,174,487"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="90,499,92,660,87,660,89,504"/>
+<area shape="rect" id="Node000004" href="$classtickets__shop_1_1_application_1_1_service_handlers_1_1_tickets_purchase_handler.html" title="A service handler responsible for validating and executing the purchase of tickets,..." alt="" coords="195,672,403,810"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="301,807,302,979,296,977,297,811"/>
+<area shape="rect" id="Node000005" href="$classtickets__shop_1_1_domain_1_1_users_1_1_regular_user.html" title="Represents a regular user with capabilities to hold money and tickets." alt="" coords="211,253,387,436"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="300,433,302,656,296,655,298,438"/>
+<area shape="rect" id="Node000006" href="$classtickets__shop_1_1_domain_1_1_users_1_1_user.html" title="Provides the abstract base definition for all user types (e.g., Admin, RegularUser) in the applicatio..." alt="" coords="197,5,401,153"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="299,165,302,254,296,253,299,170"/>
+<area shape="rect" id="Node000007" href="$classtickets__shop_1_1_domain_1_1_events_1_1_event.html" title="Represents an event in the system, detailing its schedule, location, pricing, organizer,..." alt="" coords="428,558,610,924"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="491,922,465,973,447,993,426,1012,424,1007,444,989,461,969,487,925"/>
+</map>

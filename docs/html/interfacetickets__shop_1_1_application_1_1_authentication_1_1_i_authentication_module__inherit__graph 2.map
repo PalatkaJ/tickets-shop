@@ -1,0 +1,5 @@
+<map id="tickets_shop.Application.Authentication.IAuthenticationModule" name="tickets_shop.Application.Authentication.IAuthenticationModule">
+<area shape="rect" id="Node000001" title="Defines the contract for an authentication service responsible for user registration and login operat..." alt="" coords="24,5,209,122"/>
+<area shape="rect" id="Node000002" href="$classtickets__shop_1_1_infrastructure_1_1_authentication_1_1_authentication_module.html" title="Provides a concrete, infrastructure&#45;level implementation of the authentication logic." alt="" coords="5,170,228,272"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,135,119,171,114,170,115,139"/>
+</map>
